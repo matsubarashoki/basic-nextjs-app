@@ -16,10 +16,10 @@ export default function Header() {
             ホーム
           </Link>
           <Link
-            href="/about"
+            href="/user"
             className="text-sm font-medium hover:underline underline-offset-4"
           >
-            会社概要
+            ユーザ
           </Link>
           <Link
             href="/services"
